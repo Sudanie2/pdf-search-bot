@@ -1,1 +1,5 @@
-
+google-cloud-storage
+google-generativeai
+pymupdf
+streamlit
+python-dotenv
